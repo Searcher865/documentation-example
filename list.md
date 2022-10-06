@@ -19,10 +19,6 @@
 + [Ссылка 1](https://docs.google.com/document/d/1LJZa4UgMpJ9YGampCS5JcKGiIpLSxsk0uW2C9fHxyWk/edit?usp=sharing)
 + [Ссылка 2](https://docs.google.com/document/d/1rP6A3J2OJ8w5o0e2vtxSukfAigGnQFmXeJ7z7EvR0F8/edit?usp=sharing)
 
-
-
-
-
-[Сертификат о прохождении курса SQL](https://stepik.org/cert/1621450)
-
-[Примеры SQL запросов](https://github.com/Searcher865/testing-example/blob/main/sql-example.sql)
+### SQL
++ [Сертификат о прохождении курса SQL](https://stepik.org/cert/1621450)
++ [Примеры SQL запросов](https://github.com/Searcher865/testing-example/blob/main/sql-example.sql)
