@@ -24,4 +24,5 @@
 
 
 [Сертификат о прохождении курса SQL](https://stepik.org/cert/1621450)
+
 [Примеры SQL запросов](https://github.com/Searcher865/testing-example/blob/main/sql-example.sql)
